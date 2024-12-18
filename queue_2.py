@@ -1,0 +1,9 @@
+queue=[]
+queue.insert(0,10)
+print(queue)
+queue.insert(0,20)
+print(queue)
+queue.insert(0,30)
+print(queue)
+queue.pop()
+print(queue)
